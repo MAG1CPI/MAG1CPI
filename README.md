@@ -2,12 +2,13 @@
 
 ### Hi there,I'm MAG1CPI 👋
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAG1CPI&show_icons=true&layout=compact&theme=dracula">
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MAG1CPI&show_icons=true&layout=compact&theme=dracula")
 
 ![](https://github-readme-stats.vercel.app/api?username=MAG1CPI)
 
+<!--
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
+-->
 <!--
 **MAG1CPI/MAG1CPI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
