@@ -1,25 +1,5 @@
+### ✨Hi there, I'm MAG1CPI✨
 
+[![MAG1CPI's GitHub stats](https://github-readme-stats.vercel.app/api?username=MAG1CPI)](https://github.com/anuraghazra/github-readme-stats)![MAG1CPI's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MAG1CPI&layout=compact&hide_border=true&langs_count=10)
 
-### Hi there,I'm MAG1CPI 👋
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MAG1CPI&show_icons=true&layout=compact&theme=dracula")
-
-![](https://github-readme-stats.vercel.app/api?username=MAG1CPI)
-
-
-![](https://raw.githubusercontent.com/MAG1CPI/MAG1CPI/main/assets/github-contribution-grid-snake.svg)
-
-<!--
-**MAG1CPI/MAG1CPI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Metrics](https://metrics.lecoq.io/MAG1CPI?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai)
